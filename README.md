@@ -1,3 +1,1 @@
-# Base layout template with Gulp, SCSS and Stylelint
-
-Template about Museum (landing page)
+[DEMO LINK](https://pbahrynovskyi.github.io/museum-landing/)
